@@ -1,2 +1,2 @@
 # Android-Basics
-Codes used to learn Android basics
+This repo consists of some basic Kotlin codes and XML codes used by me to learn Android development basics.
